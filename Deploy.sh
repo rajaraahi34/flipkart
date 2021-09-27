@@ -1,1 +1,1 @@
-thub commands
+something thub command
